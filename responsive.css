@@ -1,0 +1,146 @@
+@media screen and (max-width:520px) {
+	.MainMenu ul li{
+        float: none;
+        text-align: center;
+    }
+	
+	
+	
+    section h1 {
+        font-size: 20px;
+        padding: 10px 3px;
+    }
+
+    /*--package--*/
+    .pricing-card {
+        margin-bottom: 10px;
+    }
+
+    /*--achivment--*/
+    .col-arif {
+        margin-bottom: 10px;
+    }
+
+    /*--Testimonial--*/
+    #card-test {
+        margin-bottom: 10px;
+    }
+
+    /*--client--*/
+    #card-2 {
+        margin-bottom: 10px;
+    }
+
+    /*--team--*/
+    .team-card {
+        margin-bottom: 10px;
+    }
+
+    /*--about us--*/
+
+    .my-btn {
+        margin-bottom: 10px;
+    }
+
+    .my-btn a {
+        text-align: center;
+    }
+
+    .myskill h3 {
+        text-align: center;
+        margin: 20px 0px;
+    }
+
+    .custom-social-media .custom-social-icon {
+        margin: 0;
+        font-size: 10px;
+        border-radius: 20px;
+        padding: 11px 16px;
+    }
+
+    .custom-social-media {
+        padding: 15px 0;
+
+    }
+
+    .html-container {
+        width: 320px;
+        margin: auto;
+    }
+
+    .css-container {
+        width: 320px;
+        margin: auto;
+    }
+
+    .js-container {
+        width: 320px;
+        margin: auto;
+    }
+
+    .btp-container {
+        width: 320px;
+        margin: auto;
+    }
+
+    .wdp-container {
+        width: 320px;
+        margin: auto;
+    }
+
+    /*--Location--*/
+    .mailing-address h3 {
+        font-size: 12px;
+    }
+
+    .contact-info span {
+
+        font-size: 9px;
+        text-align: center;
+        margin-left: 0;
+    }
+
+    .contact-info span i {
+        display: block;
+        text-align: center;
+        margin-right: 0;
+    }
+
+    /*--thank--*/
+    .thankU h1 {
+        font-size: 36px;
+        width: 60%;
+    }
+
+    /*--social--*/
+    .social-share h1 {
+        font-size: 15px;
+    }
+
+    .social-media a {
+        height: 40px;
+        width: 40px;
+        padding: 0 10px;
+    }
+
+    .social-media a i {
+        font-size: 25px;
+    }
+}
+
+@media screen and (max-width:989px) {
+    .team-card {
+        margin-bottom: 10px;
+    }
+
+    .My-login-form {
+        margin-bottom: 25px;
+    }
+
+}
+@media screen and (max-width:1199px){
+    
+    .logo-area{
+        width: 210px;
+    }   
+}
